@@ -1,6 +1,3 @@
-Aqui está o conteúdo organizado e formatado em um arquivo Markdown (`.md`), pronto para ser usado no seu repositório:
-
-```markdown
 # Encurtador de URLs
 
 ## 📌 Descrição
